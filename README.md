@@ -21,7 +21,8 @@ To use these scripts, you need to install the following packages:
 Install them using pip:
 
 ```bash
-pip install pynput mss selenium pyautogui numpy pillow opencv-python```
+pip install pynput mss selenium pyautogui numpy pillow opencv-python
+```
 
 ### ChromeDriver Setup
 1. **Download ChromeDriver**: Get a version compatible with your Chrome browser from [ChromeDriver Downloads](https://developer.chrome.com/docs/chromedriver/downloads).
